@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++7D9BF68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++7D9BF68" : 9223372036854775807,
+    "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++CEBCFF6" : 9223372036854775807,
+    "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++373F699" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F328472-7C2F-4D85-9C31-103D23BF1D78",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++7D9BF68" : "LegendEats\/",
+    "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++CEBCFF6" : "",
+    "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++373F699" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LegendEats",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LegendEats.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/wearethechampion\/legendeats.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++373F699"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/wearethechampion\/legendeats.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++7D9BF68"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:wearethechampion\/legendeats.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "766D37B81E41F870842E13356DA1DF5B97DE0B5C+++CEBCFF6"
+    }
+  ]
+}
